@@ -4,7 +4,12 @@
 - FavIcon for title
 - Title
 - Log
-  
+
+# Dev Tools
+## Parcel
+- Parcel is tool to bundle a source code 
+- Parcel is a Web-Bundler
+- Take Code (HTML, CSS, JavaScript) and create artifact in /dist directory
 # Frameworks or Library
 - Bootstarp for css
   
