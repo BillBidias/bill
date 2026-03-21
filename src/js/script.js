@@ -63,7 +63,7 @@ $(document).ready(function () {
 AOS.init({
     duration: 1000,
     easing: 'ease-out',
-    offset: 300,
+    offset: 251,
     disable: 'mobile'
 });
 // Ende AOS Animation

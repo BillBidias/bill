@@ -4,11 +4,13 @@
   "description": "Vitrine page for bill compagny",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "help": "parcel help watch",
+    "dev": "parcel serve  src/index.html --port 4200",
     "start": "parcel src/index.html --open",
     "build": "parcel build src/index.html --dist-dir dist --public-url ./"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ghislain Zeleu",
   "license": "ISC",
   "devDependencies": {
     "@popperjs/core": "^2.11.8",
@@ -17,6 +19,7 @@
     "parcel": "^2.16.0"
   },
   "dependencies": {
-    "aos": "^3.0.0-beta.6"
+    "aos": "^3.0.0-beta.6",
+    "baseline-browser-mapping": "^2.10.10"
   }
 }
