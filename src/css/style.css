@@ -193,12 +193,6 @@ input.form-control:hover {
 /* ==== END: Kontakt ====*/
 /* ==== START: Angebote ====*/
 
-.angebot-bg {
-    background: url('../img/angebot-bg.png') 50% 0 fixed no-repeat;
-    height: 100vh;
-    background-size: cover;
-}
-
 #angebote .rounded-circle {
     border: 8px solid;
     border-color: beige;
