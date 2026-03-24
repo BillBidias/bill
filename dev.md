@@ -1,3 +1,4 @@
+
 # bill
 -Bb300783
 ## Requirements
@@ -10,7 +11,8 @@
 - Parcel is tool to bundle a source code 
 - Parcel is a Web-Bundler
 - Take Code (HTML, CSS, JavaScript) and create artifact in /dist directory
-# Frameworks or Library
+- 
+# Frameworks/ Library
 - Bootstarp for css
   
 # Inspiration
@@ -21,11 +23,11 @@
 - Local storage under Application 
 - Key value pairs 
 - Delete the key/value : U can see banner again
-- 
+
 # Howtos
 - Add "Wir verwenden Cookies" in a html page
 - To add Back to Button in a html page
-  - html: anchor tag  with class btn btn-outline-success
+  - html: anchor tag with class btn btn-outline-success
   - css: display:none : damit wird er bei starten nicht angezeigt
   - js: add class d-inline in back to top button
 - Usage of smooth Scrool
@@ -37,8 +39,8 @@
   - Nav soll wiessen wo wir gerade sind 
     - html: spy activieren ==> 
     - css: body  muss position relativ muss!!!
-## Floating action button that opens a menu of other buttons
-- FAB = Flaoting Action Buttons
+- Floating action button that opens a menu of other buttons
+  - FAB = Flaoting Action Buttons
 
 # AOS
 - JS library animation, Animation for scroll
@@ -51,7 +53,7 @@
   - html: attribut data-aos="fade-left"
 
 
-# IONOS - Hosting
+# IONOS 
 - Products
 - Webmail Master :  weiterhin 
 - kontakt@bill-physio.de
@@ -61,12 +63,17 @@
 ## Deploy Now
 - Github  repro to deploy
 - npm run start
+- Deployment Viewer
+  - List bundle file 
+- Production Deployment
+  - a table with name of branch, build status (ymal script Deploy Now: Build bill)
 
 
-# Formsubmit - Sending email to 
+# Formsubmit 
+- Sending email to 
 - https://formsubmit.co/documentation
 -  https://formsubmit.co/kontakt@bill-physio.de
--  
+
 
 # Google Tag Manager
 - Analytics:
